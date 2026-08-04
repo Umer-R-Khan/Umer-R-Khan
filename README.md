@@ -1,18 +1,16 @@
-<!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
+<!-- HARDENED HEADER BANNER -->
+<h1 align="center">Muhammad Umer Raza</h1>
+<p align="center"><b>Software Engineer — AI & Automations Specialist</b></p>
 
-<!-- LIVE TYPING EFFECT -->
+<!-- COMPATIBLE TYPING EFFECT -->
 <h2 align="center">
   <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
+    <img src="https://herokuapp.com" alt="Typing SVG" />
   </a>
 </h2>
 
 <p align="center">
-  <img src="https://shields.io" alt="Location">
-  <img src="https://shields.io" alt="Focus">
+  👤 <b>Focus:</b> AI & Automation &nbsp;•&nbsp; 🌍 <b>Location:</b> Remote / Global
 </p>
 
 ---
@@ -26,24 +24,37 @@ I am a forward-thinking **Software Engineer** dedicated to bridging the gap betw
 
 ---
 
-### 🛠️ Core Tech Stack & Ecosystem (Hover Icons)
-<p align="left">
-  <!-- AI / ML -->
-  <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="python" width="40" height="40"/></a> &nbsp;
-  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="tensorflow" width="40" height="40"/></a> &nbsp;
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="pytorch" width="40" height="40"/></a> &nbsp;
-  <a href="https://openai.com" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="openai" width="40" height="40"/></a> &nbsp;
-  
-  <!-- Backend & Automation -->
-  <a href="https://tiangolo.com" target="_blank" rel="noreferrer"><img src="https://tiangolo.comimg/logo-margin/logo-teal.png" alt="fastapi" width="50" height="40"/></a> &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/></a> &nbsp;
-  <a href="https://n8n.io" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="n8n" width="40" height="40"/></a> &nbsp;
-  
-  <!-- Embedded & DevOps -->
-  <a href="https://arduino.cc" target="_blank" rel="noreferrer"><img src="https://vectorlogo.zone" alt="arduino" width="40" height="40"/></a> &nbsp;
-  <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="docker" width="40" height="40"/></a> &nbsp;
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/></a> &nbsp;
-</p>
+### 🛠️ Core Tech Stack & Ecosystem
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>🧠 AI & Machine Learning</b>
+      <ul>
+        <li>Python</li>
+        <li>TensorFlow</li>
+        <li>PyTorch</li>
+        <li>OpenAI API / Ollama</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <b>⚡ Backend & Automation</b>
+      <ul>
+        <li>FastAPI</li>
+        <li>Node.js</li>
+        <li>n8n Workflow Automation</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <b>🔌 Embedded & DevOps</b>
+      <ul>
+        <li>Arduino C++</li>
+        <li>Docker Containers</li>
+        <li>PostgreSQL / Vector DBs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -72,39 +83,17 @@ I am a forward-thinking **Software Engineer** dedicated to bridging the gap betw
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### 📊 GitHub Stats
 <p align="center">
-  <img align="left" src="https://vercel.app" alt="GitHub Stats" height="180px"/>
-  <img align="right" src="https://herokuapp.com" alt="GitHub Streak" height="180px"/>
-</p>
-
-<br clear="both"/>
-<br/>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" height="200px"/>
-</p>
-
----
-
-### 🌌 Git Activity Graph
-<p align="center">
-  <img src="https://vercel.app" alt="Activity Summary" width="100%"/>
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect & Automate Together!
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
-
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://glitch.me" alt="Visitor Counter" />
+  <a href="https://linkedin.com" target="_blank">💼 Connect on LinkedIn</a> 
+  &nbsp;•&nbsp; 
+  <a href="mailto:your.email@example.com" target="_blank">✉️ Email Me</a>
 </p>
