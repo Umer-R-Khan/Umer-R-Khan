@@ -1,26 +1,30 @@
-<!-- HARDENED HEADER BANNER -->
-<h1 align="center">Muhammad Umer Raza</h1>
-<p align="center"><b>Software Engineer — AI & Automations Specialist</b></p>
+<!-- 🔥 PROFILE BANNER 🔥 -->
+<!-- Replace with your own banner: upload to an `images/` folder in this repo and point src at images/banner.gif -->
+<p align="center">
+  <img src="images/banner.gif" alt="Muhammad Umer Raza — Software Engineer" width="100%">
+</p>
 
-<!-- COMPATIBLE TYPING EFFECT -->
-<h2 align="center">
-  <a href="https://git.io">
-    <img src="https://herokuapp.com" alt="Typing SVG" />
+<!-- TYPING EFFECT -->
+<p align="center">
+  <a href="https://github.com/Umer-R-Khan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+%26+Automation;Building+Agentic+AI+Systems;MCP+Servers+%26+Workflow+Automation;Always+Shipping+Something+New" alt="Typing SVG" />
   </a>
-</h2>
+</p>
 
 <p align="center">
-  👤 <b>Focus:</b> AI & Automation &nbsp;•&nbsp; 🌍 <b>Location:</b> Remote / Global
+  👤 <b>Focus:</b> AI &amp; Automation &nbsp;•&nbsp; 🌍 <b>Location:</b> Remote / Global
 </p>
 
 ---
 
-### 🤖 About Me
-I am a forward-thinking **Software Engineer** dedicated to bridging the gap between intelligent AI agents, custom hardware, and seamless enterprise operations. I specialize in building autonomous workflows, custom Model Context Protocol (MCP) servers, and edge-computing machine learning applications.
+### 💫 About Me
 
-- 🛠️ Currently architecting **Agentic AI systems** that autonomously manage CRM environments.
-- 🔗 Deeply invested in building **MCP ecosystems** to connect LLMs with secure data sources.
-- ⚡ Obsessed with eliminating human friction through advanced **Workflow Automation**.
+I am a forward-thinking **Software Engineer** specializing in autonomous workflows, custom Model Context Protocol (MCP) servers, and edge-computing machine learning applications.
+
+- 🛠️ Currently architecting **Agentic AI systems** that autonomously manage CRM environments
+- 🔗 Deeply invested in building **MCP ecosystems** to connect LLMs with secure data sources
+- ⚡ Obsessed with eliminating human friction through advanced **Workflow Automation**
+- 🎓 Background in embedded AI systems, from spatial-awareness hardware to local LLM tooling
 
 ---
 
@@ -29,71 +33,109 @@ I am a forward-thinking **Software Engineer** dedicated to bridging the gap betw
 <table>
   <tr>
     <td valign="top" width="33%">
-      <b>🧠 AI & Machine Learning</b>
+      <b>🧠 AI &amp; Machine Learning</b>
       <ul>
         <li>Python</li>
         <li>TensorFlow</li>
         <li>PyTorch</li>
         <li>OpenAI API / Ollama</li>
+        <li>NumPy</li>
       </ul>
     </td>
     <td valign="top" width="33%">
-      <b>⚡ Backend & Automation</b>
+      <b>⚡ Backend &amp; Automation</b>
       <ul>
         <li>FastAPI</li>
         <li>Node.js</li>
         <li>n8n Workflow Automation</li>
+        <li>C / C++</li>
       </ul>
     </td>
     <td valign="top" width="33%">
-      <b>🔌 Embedded & DevOps</b>
+      <b>🔌 Embedded &amp; DevOps</b>
       <ul>
         <li>Arduino C++</li>
         <li>Docker Containers</li>
         <li>PostgreSQL / Vector DBs</li>
+        <li>HTML5 / CSS3</li>
       </ul>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ---
 
 ### 📂 Featured Engineering Projects
 
 #### 🕶️ 1. AI Assistive Glasses for Visually Impaired (University FYP)
-*An intelligent, hardware-integrated IoT and deep learning system built to provide autonomous spatial awareness and security checks for the visually impaired.*
-- **Hardware Integration**: Custom smart glasses utilizing an **Arduino** core, **HC-SR04 ultrasonic sensors** for distance calculations, a hardware buzzer, and wireless transmission via **JDY-31 / HC-05 Bluetooth modules**.
-- **Computer Vision & Intelligence**: Streamed data triggers an Android/iOS app ecosystem to capture high-definition environment shots, processing them through **YOLOv5** and **TensorFlow** models trained on the **COCO Dataset** for granular object detection.
-- **Fail-Safe Security Engine**: Features a fully voice-functional interface. Continuously audits user stability (sudden drops/silence). In case of an unresponsive status or lost hardware signal, it automatically triggers a fallback protocol broadcast, sharing real-time location metrics with caretakers while safety guidance plays locally.
-- **Stack**: `Python` • `TensorFlow` • `YOLOv5` • `Arduino C++` • `Bluetooth Smart API` • `TTS/STT Engines`
+<p align="center">
+  <img src="images/glasses.gif" alt="AI Glasses Demo" width="90%">
+</p>
+
+> An intelligent IoT and deep learning hardware ecosystem providing autonomous spatial awareness and fail-safe security checks.
+>
+> `Python` • `TensorFlow` • `YOLOv5` • `Arduino C++` • `Bluetooth Smart API` • `TTS/STT Engines`
+
+<br/>
 
 #### 🧠 2. Learnix — AI-Powered Study Assistant
-*A locally hosted, privacy-first document ingestion and educational synthesis engine.*
-- **RAG Architecture**: Ingests unstructured academic material (PDFs, PPTXs, Word Docs) to build local contextual knowledge bases.
-- **Intelligence Layer**: Powered entirely by **Ollama**, executing advanced analysis without reliance on external cloud APIs to automatically highlight critical topics.
-- **Dynamic Assessment**: Generates contextually accurate tests, interactive quizzes, flashcards, and step-by-step guidance tailored directly to the source texts.
-- **Stack**: `Ollama` • `Python` • `RAG (Retrieval-Augmented Generation)` • `LangChain` • `FastAPI`
+<p align="center">
+  <img src="images/learnix.gif" alt="Learnix AI Demo" width="90%">
+</p>
 
-#### 🎬 3. MexPlayer — The Ultimate Omnivorous Media & Code Processor
-*A highly optimized multi-format application framework designed to transcend basic playback tools by serving as a localized file editor and converter.*
-- **Universal Processing**: Seamlessly handles and processes all primary system targets, including standard Audio/Video streams, static images, formatted text, and complex codebase assets.
-- **Transform & Convert Pipeline**: Integrates local processing wrappers to handle complex structural mutations (e.g., extracting MP3 streams from heavy MP4 packages, or image re-encoding arrays like JPG ↔ PNG ↔ JPEG).
-- **Embedded Editor**: Implements fine-grained timeline manipulation tools allowing users to natively cut, crop, slice, and stitch raw video and audio directly inside the UI layer.
-- **Stack**: `Node.js` • `FFmpeg Core` • `Electron / Desktop Native Wrappers` • `File-System System APIs`
+> A privacy-first, locally hosted document ingestion and educational synthesis engine powered by Ollama.
+>
+> `Ollama` • `Python` • `RAG Architecture` • `LangChain` • `FastAPI`
+
+<br/>
+
+#### 🎬 3. MexPlayer — Omnivorous Media & Code Processor
+<p align="center">
+  <img src="images/mexplayer.gif" alt="MexPlayer Demo" width="90%">
+</p>
+
+> A multi-format application framework built to natively stream, edit, cut, and convert files, assets, and code.
+>
+> `Node.js` • `FFmpeg Core` • `Electron` • `File-System APIs`
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Umer-R-Khan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Umer-R-Khan&theme=dark&hide_border=false" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Umer-R-Khan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect & Automate Together!
+### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">💼 Connect on LinkedIn</a> 
-  &nbsp;•&nbsp; 
-  <a href="mailto:your.email@example.com" target="_blank">✉️ Email Me</a>
+  <a href="https://discord.gg/umerrkhan" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/mumer.razakhan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/m-umer-raza-khan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/m-umer-raza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitch.tv/mrfoxer007" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" /></a>
+  <a href="https://youtube.com/@GamersDen-ud" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="mailto:mumerrazakhan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Umer-R-Khan&icon=0&color=0d1117&style=flat-square" alt="Profile views" />
 </p>
