@@ -139,7 +139,7 @@ A multi-format application framework built to natively stream, edit, cut, and co
 <p align="center">
   <a href="https://discord.gg/umerrkhan" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://facebook.com/mumer.razakhan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/m-umer-raza-khan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/m_umer_raza_khan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/m-umer-raza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitch.tv/mrfoxer007" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white" /></a>
   <a href="https://youtube.com/@GamersDen-ud" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" /></a>
